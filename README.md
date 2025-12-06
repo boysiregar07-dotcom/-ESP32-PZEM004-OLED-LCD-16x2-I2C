@@ -27,7 +27,11 @@ Proyek ini bertujuan untuk memonitor tegangan, arus, dan daya listrik menggunaka
 3. Lihat hasil di OLED atau Serial Monitor  
 
 ## 📸 Dokumentasi
+![WhatsApp Image 2025-12-06 at 13 59 36_0ddc7965](https://github.com/user-attachments/assets/293a7d76-72b7-49a0-a701-c7a35682c853)
 
+![WhatsApp Image 2025-12-06 at 13 59 37_e0a56f89](https://github.com/user-attachments/assets/c3899225-e45d-4f38-9d21-7fbd71b4890d)
+
+![WhatsApp Image 2025-12-06 at 13 59 37_150c9282](https://github.com/user-attachments/assets/f0b8d41e-766b-4b45-8361-8a3c9442a206)
 
 ## 👤 Pembuat
 Boy Maichel Siregar– Mahasiswa Teknik Elektro  
