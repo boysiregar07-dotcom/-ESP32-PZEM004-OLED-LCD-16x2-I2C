@@ -32,3 +32,8 @@ Proyek ini bertujuan untuk memonitor tegangan, arus, dan daya listrik menggunaka
 ## 👤 Pembuat
 Boy Maichel Siregar– Mahasiswa Teknik Elektro  
 Email: boysiregar07gmail.com
+
+Gunakan PlatfromIO di Visual Studio Code
+Langkah-langkah cara men download PlatformIO di visual Studio Code
+PLEASE CLICK LINK BE LOW
+https://youtu.be/JmvMvIphMnY?si=FUBCmUxnueJXKE9b
